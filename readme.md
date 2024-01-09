@@ -1,14 +1,14 @@
 # Lern-Periode 3
 
-Max Muster
+Nael Ackle
 
 9.1.2024 bis 30.1.2024 (☃️ Sportferien)
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. Was wäre ein geeignetes Projekt würd diese LP3?
+1. Ich stehe mit meinen Noten relativ gut. Ich habe bis jetzt eine 5.5 im Modul 319 geschrieben. Wir haben die Note für das Modul 162 noch nicht bekommen, jedoch denke ich, dass ich da nicht ganz der beste war. Ich denke beide Module sind wichtig jedoch steht das Modul 319 im Vordergrund, da dieses praktisch die Grundlagen für C# bildet.
+2. Ich habe mir vorgenommen zukünftig effizienter und konzentrierter an meinen Projekten zu arbeiten. Das kann ich verbessern, in dem ich an der Sache bleibe und mich nicht von anderem ablenken lasse. Wie auch dass ich beim ganzen die Motivation nicht verliere, da dies auch ein Problem war.
+3. Ich möchte in dieser Lern-Periode einen simplen Web-Scraper erstellen. Ich werde vermutlich etwas Unterstützung von Youtube Tutorials, ChatGPT etc. benötigen, jedoch brauche ich trotzdem viele Befehle die ich vom Modul 319 kenne weshalb ich das ganze als optimale Lösung anschaue, da ich zum einen bereits erlerntes Anwenden kann und zusätzlich noch mehr dazu lerne.
 
 ## 9.1.2024
 

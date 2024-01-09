@@ -12,19 +12,21 @@ Nael Ackle
 
 ## 9.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich relativ lange nach einem passenden und interessanten Projekt gesucht. Ich bin nicht wirklich die kreativste Person weshalb mir solche Dinge oft schwer fallen. Ich bin dann zum Entschluss gekommen, einen simplen und vereinfachten Web-Scraper zu programmieren. Ich habe mich informiert wie diese genau funktionieren und fand dies sehr spannend weshalb ich chatgpt gefragt habe, ob diese auch in einfacheren Versionen auf C# möglich wären. Nach langer Recherche habe ich einen Aufbau bekommen wie ich vorgehen muss/kann und bin davon überzeugt dass dies relativ gut möglich ist. Ich habe bereits mit den Ersten Zeilen Code angefangen.
+
 
 ## 16.1 und 23.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Code weiterschreiben.--> Die Zeilen einfügen welche für das lesen einer Html-Datei zuständig sind.
+- [ ] Zeilen schreiben, für das erfassen der Html-Datei und anschliessend die erfassten Daten auszugeben.
+- [ ] Die Ausgabe der Konsole so programmieren, dass die Daten sauber und übersichtlich angezeigt werden.
+- [ ] Mögliche Ausnahmen und Fehler erkennen/schreiben und dementsprechend ausgeben lassen.
 
-| estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |                      |                |                |          |
-| ...            |                      |                |                |          |
-| 4              |                      |                |                |          |
+| 1              |  Code ist vollständig und korrekt, aber Website enthält keine Daten. |   Websiten-URL wurde eingefügt.|    "Keine passenden Elemente gefunden.|
+| 2              |  Code ist vollständig und korrekt. Website enthält Daten. | Websiten-URL wurde eingefügt.|Ausgabe der Daten auf Website. |
+           
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
@@ -32,16 +34,16 @@ Nael Ackle
 
 ## 23.1.2024
 
-- [ ] Fünftes AP
-- [ ] ...
-
-- [ ] Achtes AP
+- [ ] Evt vorgekommene Fehler im Code korrigieren.
+- [ ] Nach Erweiterungsmöglichkeiten recherchieren.
+- [ ] Code und Programm erweitern basierend auf Recherche.
+- [ ] Code fertigstellen und verschönern.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 5               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 8               |                      |                |                |          |
+| 3               | Code enthält unbekannte(für mich) Fehler.                    | Programm wird gestartet.               |  Fehlermeldung.              |          |
+|              |                      |                |                |          |
+| 4               | Vollständiger und korrekter Code.                     | Einfügen der Websiten-URL               |   Ausgabe der entsprechenden Daten.             |          |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 

@@ -24,8 +24,8 @@ Heute habe ich relativ lange nach einem passenden und interessanten Projekt gesu
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |  Code ist vollständig und korrekt, aber Website enthält keine Daten. |   Websiten-URL wurde eingefügt.|    "Keine passenden Elemente gefunden.|
-| 2              |  Code ist vollständig und korrekt. Website enthält Daten. | Websiten-URL wurde eingefügt.|Ausgabe der Daten auf Website. |
+| 2/4             |  Code ist vollständig und korrekt, aber Website enthält keine Daten. |   Websiten-URL wurde eingefügt.|    "Keine passenden Elemente gefunden.|
+| 1              |  Code ist vollständig und korrekt. Website enthält Daten. | Websiten-URL wurde eingefügt.|Ausgabe der Daten auf Website. |
            
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
@@ -41,9 +41,9 @@ Heute habe ich relativ lange nach einem passenden und interessanten Projekt gesu
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 3               | Code enthält unbekannte(für mich) Fehler.                    | Programm wird gestartet.               |  Fehlermeldung.              |          |
+| 5               | Code enthält unbekannte(für mich) Fehler.                    | Programm wird gestartet.               |  Fehlermeldung.              |          |
 |              |                      |                |                |          |
-| 4               | Vollständiger und korrekter Code.                     | Einfügen der Websiten-URL               |   Ausgabe der entsprechenden Daten.             |          |
+| 8               | Vollständiger und korrekter Code.                     | Einfügen der Websiten-URL               |   Ausgabe der entsprechenden Daten.             |          |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 

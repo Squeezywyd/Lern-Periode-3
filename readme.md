@@ -17,44 +17,41 @@ Heute habe ich relativ lange nach einem passenden und interessanten Projekt gesu
 
 ## 16.1 und 23.1.2024
 
-- [ ] Code weiterschreiben.--> Die Zeilen einfügen welche für das lesen einer Html-Datei zuständig sind.
-- [ ] Zeilen schreiben, für das erfassen der Html-Datei und anschliessend die erfassten Daten auszugeben.
+- [x] Code weiterschreiben.--> Die Zeilen einfügen welche für das lesen einer Html-Datei zuständig sind.
+- [x] Zeilen schreiben, für das erfassen der Html-Datei und anschliessend die erfassten Daten auszugeben.
 - [ ] Die Ausgabe der Konsole so programmieren, dass die Daten sauber und übersichtlich angezeigt werden.
 - [ ] Mögliche Ausnahmen und Fehler erkennen/schreiben und dementsprechend ausgeben lassen.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 2/4             |  Code ist vollständig und korrekt, aber Website enthält keine Daten. |   Websiten-URL wurde eingefügt.|    "Keine passenden Elemente gefunden.|
-| 1              |  Code ist vollständig und korrekt. Website enthält Daten. | Websiten-URL wurde eingefügt.|Ausgabe der Daten auf Website. |
+| 2/4             |  Code ist vollständig und korrekt, aber Website enthält keine Daten. |   Websiten-URL wurde eingefügt.|    "Error:"| Erfüllt|
+| 1              |  Code ist vollständig und korrekt. Website enthält Daten. | Websiten-URL wurde eingefügt.|Ausgabe der Daten auf Website. |Erfüllt |
            
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+Heute habe ich mit meinem Code angefangen und habe ein Code Abschnitt geschrieben welcher es ermöglcht, die Daten einer Website zu erfassen und zu speichern. Dazu musste ich das HtmlAgility Paket herunterladen welches mir ermöglicht html-Dateien einzulesen.
 
 ## 23.1.2024
 
-- [ ] Evt vorgekommene Fehler im Code korrigieren.
-- [ ] Nach Erweiterungsmöglichkeiten recherchieren.
-- [ ] Code und Programm erweitern basierend auf Recherche.
-- [ ] Code fertigstellen und verschönern.
+- [x] Evt vorgekommene Fehler im Code korrigieren.
+- [x] Nach Erweiterungsmöglichkeiten recherchieren.
+- [x] Code und Programm erweitern basierend auf Recherche.
+- [x] Code fertigstellen und verschönern.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 5               | Code enthält unbekannte(für mich) Fehler.                    | Programm wird gestartet.               |  Fehlermeldung.              |          |
+| 5               | Code enthält unbekannte(für mich) Fehler.                    | Programm wird gestartet.               |  Fehlermeldung.              | Erfüllt|         |
 |              |                      |                |                |          |
-| 8               | Vollständiger und korrekter Code.                     | Einfügen der Websiten-URL               |   Ausgabe der entsprechenden Daten.             |          |
+| 8               | Vollständiger und korrekter Code.                     | Einfügen der Websiten-URL               |   Ausgabe der entsprechenden Daten.             | Erfüllt         |
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+Heute habe ich wieder an meinem Code weitergeschrieben. Ich habe mir ebenfalls überlegt wie ich meinen Code nich erweitern könnte und habe anschliessend beschlossen, Bedingungen hinzuzufügen und implementieren. Ich habe mich also noch etwas an die Recherche gesetzt und habe anschliessend die Codes dafür geschrieben. Ich habe Bedingungen implementiert, welche verschieden Fehlermeldungen anzeigen falls ein Fehler beim lesen der Datei aufgetreten ist.
 
 ## 30.1.2024
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+Heute habe ich zuerst meinen Code nochmals gründlich durchgelesen und analysiert. Wir haben Anfangs einen Einstieg bekommen wie wir unseren Code verschönern können und aufgrund dessen Einstiegs, habe ich dann meinen Code angepasst. Ich habe meine überflüssigen Kommentare die nicht relevant waren rausgelöscht. Ebenfalls gab es noch gewisse Variablen und Funktionen welche ich umbenennt habe dass das ganze übersichtlicher wird und einfacher zu erkennen was in diesem Code-Abschnitt oder in der Zeile grade passiert.
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Ich persönlich finde, dass ich diese Lern-Periode viel besser gearbeitet habe als zuvor in der Lern-Periode-2. Ich war viel produktiver, und da ich in meiner Freizeit mich noch beschäftigt habe C# zu lernen, habe ich vieles dazu gelernt und konnte viel besser Arbeiten. Somit habe ich also mein Wissensstand erweitert und konnte viele Dinge verwenden, welche ich zuerst nicht beherrscht hatte. Dazu kommt noch, dass ich während des Projektes mehr motiviert war als zuvor. Es macht mir unglaublich viel Spass zu programmieren und aufgrunddessen fällt mir alles viel einfacher. Ich bin sehr zufrieden mit meiner Arbeit in dieser Lern-Periode und werde das defintiv so weiterführen.
 
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+Ich persönlich habe die 4-Wöchige_LP einiges angenehmer gefunden. Dazumals in der LP-2 hatte ich schon als fast "zu viel" Zeit empfunden. Grund dafür hätte aber jedoch auch sein können, dass mein Wissensstand in C# noch nicht gut genug war, um längere und aufwänderige Projekte zu machen. Aufjedenfall habe ich die länge von der Lern-Periode-3 sehr gut gefunden da sich alles perfekt aufgegangen ist. Die Planung und alles ist mir sehr gut gelungen und werde ich so definitiv weiterführen können. 
+Das einzige was ich noch denke, was man nächstes Mal noch besser machen könnte, ist dass man evt noch eine Woche hinzufügen könnte. Also dass man 3 Wochen/Tage Zeit hat für das "reine Programmieren". Denn ich denke wenn ich in C# mit der Zeit besser werde, werdnên dementsprechend auch meine Projekte grösser und deshalb würde ich mehr Zeit für den Code brauchen. Deshalb denke ich eine LP länge von 5 Wochen wäre am idealsten.
